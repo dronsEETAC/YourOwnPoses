@@ -1,0 +1,21 @@
+- Modo de juego fácil y difícil :)
+- Hacer que cuando abras un menú, se cierre otro. :)
+- URGENTE: hacer una función reseteando todas las variables, listas, diccionarios... :)
+- Canción de circo mientras juegas. :)
+- Opción para quitar música. :)
+- Cambiar que las flechas se puedan repetir? o que haya un margen espacio blanco cuando cambien :)
+- Hacer un escenario con dimensiones limitadas. :)
+- Añadir cara feliz después de acertar cada pose. :)
+- Añadir un "How to play" :)
+- Añadir fotos de fondo en el menú. :)
+- Añadir quitar música :)
+- Añadir dos comandos más, "flip right & flip left" :)
+- Cambiar mensajes en el terminal por unos más bonitos. :)
+
+
+
+- Hay que ver cuánto suma al counter_x los flips.
+- Añadir un cronómetro en pantalla?
+- Añadir una ventana con el score
+- Añadir sonido efecto de coin
+

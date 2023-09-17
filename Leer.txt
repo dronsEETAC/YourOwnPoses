@@ -1,0 +1,15 @@
+V1: sale una flecha y tienes que hacer la pose que toca
+
+V2: añadimos que el dron haga movimientos de izquierda y derecha
+
+V3: añadimos para hacer poses con el cuerpo
+
+V4: añadimos para hacer two hand poses
+
+V5: añadir modos de juego fáciles y difíciles y más
+
+V6: añadimos más canciones
+
+V8: añadimos escenario limitado
+
+V9: añadimos el nuevo menú
